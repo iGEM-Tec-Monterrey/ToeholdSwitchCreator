@@ -1,3 +1,5 @@
+<img src="https://github.com/emilianocastanon/Multimedia1/blob/master/thc-logo.png" alt="logo" width="650" height="300">
+
 # 👩‍💻 Toehold Switch Creator
 [![Anaconda-Server Badge](https://anaconda.org/bioconda/primedrpa/badges/license.svg)]() [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/iGEM-Tec-Monterrey/ToeholdSwitchCreator)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/iGEM-Tec-Monterrey/ToeholdSwitchCreator)
