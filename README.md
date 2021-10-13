@@ -23,6 +23,10 @@ After forking this repository you will need to perform the installation of the s
 
 [🐧 Linux / 🌊 Windows](https://github.com/iGEM-Tec-Monterrey/ToeholdSwitchCreator/wiki/Wiki)
 
+Once you have installed all the software dependencies, you can run Toehold Switch Creator with the following command. Remember to run it on the same directory you have all your input files.
+```bash
+python TH_Creator.py
+```
 
 ## Key input files
 
