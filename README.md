@@ -5,7 +5,7 @@
 <img src="https://github.com/emilianocastanon/Multimedia1/blob/master/thc-logo.png" alt="logo">
 
 -----
-## 💡 Tabla de contenido
+## 💡 Contents
 - [👩‍💻 Toehold Switch Creator](#-toehold-switch-creator)
   - [Overview](#overview)
   - [Installation](#installation)
