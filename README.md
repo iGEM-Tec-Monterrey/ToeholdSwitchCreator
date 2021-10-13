@@ -59,3 +59,22 @@ This software was developed by [Emiliano González Castañón](https://github.co
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>We love connecting with different people</b> so if you want to say <b>hi, We'll be happy to meet you more!</b> :)</em>
+
+
+## References
+The following literature and softwares were utilised to design Toehold Switch Creator.
+
+[1] Higgins, M., Ravenhall, M., Ward, D., Phelan, J., Ibrahim, A., Forrest, M. S., Clark, T. G., & Campino, S. (2019). PrimedRPA: primer design for recombinase polymerase amplification assays. Bioinformatics (Oxford, England), 35(4), 682–684. https://doi.org/10.1093/bioinformatics/bty701
+
+[2] iGEM Thessaly. (2019). Dry lab. In silico analysis. https://2019.igem.org/Team:Thessaly/Model
+
+[3] Higgins, M., Ravenhall, M., Ward, D., Phelan, J., Ibrahim, A., Forrest, M. S., Clark, T. G., & Campino, S. (2018). PrimedRPA: primer design for recombinase polymerase amplification assays. Bioinformatics, 35(4), 682–684. https://doi.org/10.1093/bioinformatics/bty701
+
+[4] EPFL. (2017). Toehold Designer. Available at http://2017.igem.org/Team:EPFL/Software
+
+[5] Green, A. A., Silver, P. A., Collins, J. J., & Yin, P. (2014). Toehold Switches: De-Novo-Designed Regulators of Gene Expression. Cell, 159(4), 925–939. https://doi.org/10.1016/j.cell.2014.10.002
+
+[6] Pardee, K., Green, A. A., Takahashi, M. K., Braff, D., Lambert, G., Lee, J. W., Ferrante, T., Ma, D., Donghia, N., Fan, M., Daringer, N. M., Bosch, I., Dudley, D. M., O’Connor, D. H., Gehrke, L., & Collins, J. J. (2016). Rapid, Low-Cost Detection of Zika Virus Using Programmable Biomolecular Components. Cell, 165(5), 1255–1266. https://doi.org/10.1016/j.cell.2016.04.059
+
+[7] The Chinese Hong Kong University. (2017). Modeling: Designing Toehold Switch. Available at: http://2017.igem.org/Team:Hong_Kong-CUHK/Model
+
