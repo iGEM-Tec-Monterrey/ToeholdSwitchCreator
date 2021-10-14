@@ -14,7 +14,7 @@
   - [Software dependencies](#software-dependencies)
   - [Authors](#authors)
   - [Contact us](#-contact-us-on-social-media)
-  - 
+ 
 ------
 ## Overview
 🐍 **Toehold Switch Creator** is an open source software based on python for the in silico design of the riboswitches called “Toehold switches”, we aimed to made an straightforward software in response to the dispersion of the bioinformatic tools used generally for designing these  constructs, we originally made TSC for the development of our **iGEM project: Diagnosgene** a phytopathogenic detection system based on these biosensors.
