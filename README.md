@@ -3,6 +3,9 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/iGEM-Tec-Monterrey/ToeholdSwitchCreator)
 
 <img src="https://github.com/emilianocastanon/Multimedia1/blob/master/thc-logo.png" alt="logo">
+<img src="https://github.com/DonOrtiz/Multimedia/blob/main/logoTSC.svg" alt="logo">
+
+
 
 -----
 ## 💡 Contents
