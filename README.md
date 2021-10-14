@@ -3,7 +3,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/iGEM-Tec-Monterrey/ToeholdSwitchCreator)
 
 
-<img src="https://github.com/DonOrtiz/Multimedia/blob/main/logoTSC.svg" alt="logo">
+<img src="https://github.com/DonOrtiz/Multimedia/blob/main/logoTSC.svg" alt="logo" width="500" height="800" class="center">
 
 
 
