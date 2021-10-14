@@ -5,7 +5,15 @@
 
 <img src="https://github.com/DonOrtiz/Multimedia/blob/main/logoTSC.svg" alt="logo" height="500">
 
+<p class="aligncenter">
+    <img src="https://github.com/DonOrtiz/Multimedia/blob/main/logoTSC.svg" alt="centered image" />
+</p>
 
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 
 -----
 ## 💡 Contents
