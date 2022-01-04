@@ -53,7 +53,7 @@ The RPA primers are generated with [PrimedRPA](https://github.com/MatthewHiggins
 
 <img src="https://github.com/DonOrtiz/Multimedia/blob/main/logoTSC.svg" alt="logo" height="400">
 
-This software was developed by [Emiliano González Castañón](https://github.com/emilianocastanon), [Juan Antonio Alfaro Almaguer](https://github.com/Juan-500Antonio) and [Emilio Fabian Ortiz](https://github.com/DonOrtiz).
+This software was developed by [Emiliano González Castañón](https://github.com/emilianobio), [Juan Antonio Alfaro Almaguer](https://github.com/Juan-500Antonio) and [Emilio Fabian Ortiz](https://github.com/DonOrtiz).
 
 
 ## 📫 Contact us on Social Media
